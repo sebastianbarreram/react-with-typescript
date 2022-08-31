@@ -1,5 +1,5 @@
 # react-with-typescript
-React project with typescript following this tutorial
+React project with TypeScript following this tutorial
 https://www.youtube.com/watch?v=jrKcJxF0lAU&t=419s&ab_channel=LaithAcademy
 
 # Getting Started with Create React App
